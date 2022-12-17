@@ -13,11 +13,7 @@ A aplicação consiste em interações entre usuários, onde os dados são colet
 
 
 # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+
 ## Front end
 - HTML / CSS / JS / JQuery Ajax
 ## Implantação em produção
@@ -25,19 +21,6 @@ A aplicação consiste em interações entre usuários, onde os dados são colet
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/AlexsanderFrr/atividadeA1_falae_back.git
-
-# entrar na pasta do projeto back end
-cd atividadeA1_falae_back
-
-# executar o projeto
-importar projeto maven no eclipse e executar
-```
 -----------------------------------------------------
 
 ## Front end web
