@@ -36,3 +36,16 @@ cd atividadeA1_falae_front
 # executar o projeto
 chmod +x index.html
 ```
+## Back end
+Pré-requisitos: Java 11
+
+```bash
+# clonar repositório
+git clone https://github.com/AlexsanderFrr/atividadeA1_falae_back.git
+
+# entrar na pasta do projeto back end
+cd atividadeA1_falae_back
+
+# executar o projeto
+importar projeto maven no eclipse e executar o arquivo FalaeApplication
+```
